@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "resources": [
+    {
+      "type": "schema",
+      "name": "claude_catalog.silver",
+      "id": "claude_catalog.silver",
+      "created_at": "2026-05-26T14:00:25.532888+00:00",
+      "updated_at": "2026-05-26T14:00:25.532888+00:00"
+    },
+    {
+      "type": "job",
+      "name": "claudeXDB_ingest_raw_tables",
+      "id": "1058122822656945",
+      "created_at": "2026-05-26T15:26:11.077573+00:00",
+      "updated_at": "2026-05-26T15:26:11.077573+00:00"
+    }
+  ]
+}
